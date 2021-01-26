@@ -1,0 +1,7 @@
+Links de Github BD VIH:
+
+Consolidado Trans: https://raw.githubusercontent.com/Sud-Austral/DATA-SALUD/master/BD%20Enfermedades/consolidado%20final%20VIH/consolidado_trans.xlsx
+Consolidado Pueblos Originarios: https://raw.githubusercontent.com/Sud-Austral/DATA-SALUD/master/BD%20Enfermedades/consolidado%20final%20VIH/consolidado_pueblos_originarios.xlsx
+Consolidado Población Inmigrantes: https://raw.githubusercontent.com/Sud-Austral/DATA-SALUD/master/BD%20Enfermedades/consolidado%20final%20VIH/consolidado_poblacion_inmigrantes.xlsx
+Consolidado Gestantes: https://raw.githubusercontent.com/Sud-Austral/DATA-SALUD/master/BD%20Enfermedades/consolidado%20final%20VIH/consolidado_gestantes.xlsx
+Consolidade Edades: https://raw.githubusercontent.com/Sud-Austral/DATA-SALUD/master/BD%20Enfermedades/consolidado%20final%20VIH/consolidado_edades.xlsx
